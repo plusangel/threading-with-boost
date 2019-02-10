@@ -1,0 +1,4 @@
+/home/angelos/CLionProjects/boostThreads/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/angelos/CLionProjects/boostThreads/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/angelos/CLionProjects/boostThreads/cmake-build-debug/CMakeFiles/classWorkerAdvanced.dir
+/home/angelos/CLionProjects/boostThreads/cmake-build-debug/CMakeFiles/boostThreads.dir

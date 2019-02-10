@@ -1,0 +1,2 @@
+/usr/bin/ar qc libclassWorkerAdvanced.a  CMakeFiles/classWorkerAdvanced.dir/src/classWorkerAdvanced.cpp.o
+/usr/bin/ranlib libclassWorkerAdvanced.a

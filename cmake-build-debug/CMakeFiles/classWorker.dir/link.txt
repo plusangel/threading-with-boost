@@ -1,0 +1,2 @@
+/usr/bin/ar qc libclassWorker.a  CMakeFiles/classWorker.dir/src/classWorker.cpp.o
+/usr/bin/ranlib libclassWorker.a

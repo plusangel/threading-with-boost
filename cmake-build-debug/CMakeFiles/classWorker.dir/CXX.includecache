@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/angelos/CLionProjects/boostThreads/include/classWorker.h
+iostream
+-
+
+/home/angelos/CLionProjects/boostThreads/src/classWorker.cpp
+../include/classWorker.h
+/home/angelos/CLionProjects/boostThreads/include/classWorker.h
+

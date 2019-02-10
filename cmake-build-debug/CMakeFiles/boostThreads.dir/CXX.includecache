@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/classWorkerAdvanced.h
+iostream
+-
+boost/thread.hpp
+-
+
+/home/angelos/CLionProjects/boostThreads/include/classWorker.h
+iostream
+-
+
+/home/angelos/CLionProjects/boostThreads/include/classWorkerAdvanced.h
+iostream
+-
+boost/thread.hpp
+-
+
+/home/angelos/CLionProjects/boostThreads/include/functorWorker.h
+iostream
+-
+
+/home/angelos/CLionProjects/boostThreads/main.cpp
+iostream
+-
+boost/thread.hpp
+-
+boost/chrono.hpp
+-
+classWorkerAdvanced.h
+-
+include/functorWorker.h
+/home/angelos/CLionProjects/boostThreads/include/functorWorker.h
+include/classWorker.h
+/home/angelos/CLionProjects/boostThreads/include/classWorker.h
+include/classWorkerAdvanced.h
+/home/angelos/CLionProjects/boostThreads/include/classWorkerAdvanced.h
+
